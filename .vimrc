@@ -26,10 +26,10 @@ Plugin 'gmarik/Vundle.vim'
 " used Bundle instead of Plugin)
 Plugin 'scrooloose/nerdtree'
 Plugin 'jistr/vim-nerdtree-tabs'
-Plugin 'davidhalter/jedi-vim'
 Plugin 'Lokaltog/powerline', {'rtp': 'powerline/bindings/vim/'}
 Plugin 'vim-syntastic/syntastic'
 Plugin 'nvie/vim-flake8'
+Plugin 'Valloric/YouCompleteMe'
 " ...
 
 " All of your Plugins must be added before the following line
